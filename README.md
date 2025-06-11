@@ -67,11 +67,10 @@ Backend for StudyRats, an app that gamifies group studying. Users form groups, d
 --
 
 ## Estrutura do projeto | Project Structure
-  com.studyrats
-  ├── domain         # Modelos e regras de negócio / Business models and rules
-  ├── application    # Serviços de caso de uso e DTOs / Use Case Services and DTOs
-  ├── infrastructure # Persistência, mapeadores e migrações / Persistence, mappers and migrations
-  └── api      # REST controllers e mappers para API / REST controllers and mappers for API
+  - com.studyrats.domain         # Modelos e regras de negócio / Business models and rules
+  - com.studyrats.application    # Serviços de caso de uso e DTOs / Use Case Services and DTOs
+  - com.studyrats.infrastructure # Persistência, mapeadores e migrações / Persistence, mappers and migrations
+  - com.studyrats.api      # REST controllers e mappers para API / REST controllers and mappers for API
 
 --
 
