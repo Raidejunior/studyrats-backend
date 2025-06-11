@@ -1,4 +1,4 @@
-# 🐀 StudyRats Backend
+# StudyRats Backend
 
 **PT-BR:**  
 Backend da StudyRats, um aplicativo que gamifica o estudo em grupo. Usuários criam grupos, definem matérias e subáreas, respondem e criam questões, acumulam pontos por acertos e curtidas.  
@@ -8,23 +8,23 @@ Backend for StudyRats, an app that gamifies group studying. Users form groups, d
 
 ---
 
-## 📚 Funcionalidades principais | Key Features
+## Funcionalidades principais | Key Features
 
-- 🎯 Cadastro e login de usuários  / User registration and login
+- Cadastro e login de usuários  / User registration and login
   
-- 👥 Criação e associação de usuários a grupos  / Creation and association of users to groups
+- Criação e associação de usuários a grupos  / Creation and association of users to groups
   
-- 📂 Gerenciamento de categorias (matérias) e subcategorias (áreas) / Management of categories (subjects) and subcategories (areas)
+- Gerenciamento de categorias (matérias) e subcategorias (áreas) / Management of categories (subjects) and subcategories (areas)
   
-- ❓ CRUD de questões de múltipla escolha  / CRUD of multiple choice questions
+- CRUD de questões de múltipla escolha  / CRUD of multiple choice questions
   
-- 👍 Sistema de pontuação: +10 por acerto, +3 por curtida  / Scoring system: +10 for correct answers, +3 for likes
+- Sistema de pontuação: +10 por acerto, +3 por curtida  / Scoring system: +10 for correct answers, +3 for likes
   
-- 📈 Endpoints de ranking por usuário e por grupo  / Ranking endpoints by user and by group
+- Endpoints de ranking por usuário e por grupo  / Ranking endpoints by user and by group
 
 ---
 
-## 🛠️ Stack de Tecnologias | Tech Stack
+## Stack de Tecnologias | Tech Stack
 
 - **Java 17**  
 - **Spring Boot 3.5**
@@ -47,7 +47,7 @@ Backend for StudyRats, an app that gamifies group studying. Users form groups, d
 
 ---
 
-## 🚀 Como rodar localmente | How to run locally
+## Como rodar localmente | How to run locally
 
 1. **Clone o repositório / Clone the repo**
    ```bash
@@ -66,7 +66,7 @@ Backend for StudyRats, an app that gamifies group studying. Users form groups, d
 
 --
 
-## 📦 Estrutura do projeto | Project Structure
+## Estrutura do projeto | Project Structure
   com.studyrats
   ├── domain         # Modelos e regras de negócio / Business models and rules
   ├── application    # Serviços de caso de uso e DTOs / Use Case Services and DTOs
@@ -75,13 +75,13 @@ Backend for StudyRats, an app that gamifies group studying. Users form groups, d
 
 --
 
-## ✅ Contribuindo | Contributing
+## Contribuindo | Contributing
   Este projeto é mantido pela equipe interna e **não está aberto** a contribuições externas no momento.
   This project is maintained by the internal team and is **not open** to external contributions at this time.
 
 --
 
-## 📄 Licença | License
+## Licença | License
   Este projeto é licenciado sob a MIT License. Olhe o arquivo LICENSE para mais informações. / Original license: MIT. See LICENSE file for more information.
   Este projeto usa a convenção de commits Conventional Commits. / This project uses the Conventional Commits commit convention.
   
