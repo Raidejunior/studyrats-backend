@@ -6,9 +6,8 @@ import lombok.*;
 import java.time.LocalDateTime;
 
 @Entity
-
 @Table(name = "users")
-@Getter @Setter @ToString @AllArgsConstructor @NoArgsConstructor
+@Getter @Setter @Builder @ToString @AllArgsConstructor @NoArgsConstructor
 public class UserEntity {
 
     @Id
