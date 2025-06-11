@@ -64,7 +64,7 @@ Backend for StudyRats, an app that gamifies group studying. Users form groups, d
 4. **Inicie a aplicação / Start the app**
   `./mvnw spring-boot:run`
 
---
+---
 
 ## Estrutura do projeto | Project Structure
   - com.studyrats.domain         # Modelos e regras de negócio / Business models and rules
@@ -72,15 +72,15 @@ Backend for StudyRats, an app that gamifies group studying. Users form groups, d
   - com.studyrats.infrastructure # Persistência, mapeadores e migrações / Persistence, mappers and migrations
   - com.studyrats.api      # REST controllers e mappers para API / REST controllers and mappers for API
 
---
+---
 
 ## Contribuindo | Contributing
-  Este projeto é mantido pela equipe interna e **não está aberto** a contribuições externas no momento.
-  This project is maintained by the internal team and is **not open** to external contributions at this time.
+  - Este projeto é mantido pela equipe interna e **não está aberto** a contribuições externas no momento.
+  - This project is maintained by the internal team and is **not open** to external contributions at this time.
 
---
+---
 
 ## Licença | License
-  Este projeto é licenciado sob a MIT License. Olhe o arquivo LICENSE para mais informações. / Original license: MIT. See LICENSE file for more information.
-  Este projeto usa a convenção de commits Conventional Commits. / This project uses the Conventional Commits commit convention.
+  - Este projeto é licenciado sob a MIT License. Olhe o arquivo LICENSE para mais informações. / Original license: MIT. See LICENSE file for more information.
+  - Este projeto usa a convenção de commits Conventional Commits. / This project uses the Conventional Commits commit convention.
   
