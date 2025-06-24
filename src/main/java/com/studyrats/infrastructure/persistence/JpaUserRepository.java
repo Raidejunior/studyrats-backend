@@ -31,4 +31,9 @@ public class JpaUserRepository implements UserRepository {
 
         return mapper.toDomain(saved);
     }
+
+    @Override
+    public void deleteAll() {
+        springDataRepo.deleteAll();
+    }
 }
